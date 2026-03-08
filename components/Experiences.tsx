@@ -31,7 +31,7 @@ function Experiences() {
               alt={data.image.alt}
               width={629}
               height={445}
-              className="aspect-video w-full order-2 sm:order-1 rounded-md object-bottom object-cover shadow-2xl shadow-amber-600/50"
+              className="aspect-video w-full order-2 rounded-br-3xl rounded-lg sm:order-1 object-bottom object-cover shadow-2xl shadow-amber-600/50"
             />
           <div className="flex flex-col items-center gap-5 text-center lg:items-start lg:text-left order-1 sm:order-2">
             <h3 className="text-[#E58411] tracking-widest font-bold">
